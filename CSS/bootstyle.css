@@ -57,6 +57,7 @@ body {
 .data{
   font-size: 22px;
   color: hsl(0, 0%, 100%);
+  font-weight: bold;
 }
 @media screen and (max-width: 1024px) {
   .feetcontainer{
